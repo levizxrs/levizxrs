@@ -1,15 +1,14 @@
 # Olá, eu sou o Levi Vale 👋
 
-Estudante de **Ciência da Computação** na UNIFENAS (Alfenas, MG), em busca de uma oportunidade de **estágio em TI e programação**.
+Estudante de **Ciência da Computação** na UNIFENAS (Alfenas, MG), em busca de uma oportunidade de **estágio em TI**.
 
 ## Sobre mim
 
-- 🎓 Cursando Bacharelado em Ciência da Computação (UNIFENAS, campus Alfenas)
+- 🎓 Cursando Bacharelado em Ciência da Computação (UNIFENAS)
 - 💻 Foco em programação, desenvolvimento de sistemas e automação de processos
 - 🏭 Aprendiz em Manutenção Mecânica, com experiência prática em planilhas e organização de dados
 - 📍 Alfenas, Minas Gerais, aberto a oportunidades presenciais na região e remotas
-- 🌱 Estudando todos os dias para entender o que escrevo, e não apenas copiar soluções
-
+  
 ## Tecnologias e ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,5 +20,5 @@ Estudante de **Ciência da Computação** na UNIFENAS (Alfenas, MG), em busca de
 
 ## Contato
 
-- 💼 LinkedIn: [ADICIONAR LINK]
-- 📧 E-mail: [ADICIONAR E-MAIL]
+- 💼 LinkedIn: www.linkedin.com/in/levimarques
+- 📧 E-mail: levizxrs@gmail.com
