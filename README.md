@@ -1,4 +1,4 @@
-# Olá, eu sou o Levi Vale 👋
+# Olá, eu sou o Levi 👋
 
 Estudante de **Ciência da Computação** na UNIFENAS (Alfenas, MG), em busca de uma oportunidade de **estágio em TI**.
 
