@@ -1,55 +1,47 @@
-<div align="center">
+# Levi Marques
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Levi+Marques+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Focado+em+Desenvolvimento+%26+Automa%C3%A7%C3%A3o" alt="Typing SVG" />
+**Ciência da Computação · Desenvolvimento de Software & Automação**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levimarques)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levizxrs@gmail.com)
-![Localização](https://img.shields.io/badge/Alfenas%2C%20MG-1E293B?style=for-the-badge&logo=googlemaps&logoColor=38BDF8)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/levimarques)
+[![Email](https://img.shields.io/badge/levizxrs%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8)](mailto:levizxrs@gmail.com)
+![Localização](https://img.shields.io/badge/Alfenas%2C%20MG%20·%20Presencial%20%2F%20Remoto-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8)
 
 ---
 
-### 👨‍💻 Sobre mim
+### Perfil Profissional
 
-Graduando em **Ciência da Computação** pela **UNIFENAS** (Alfenas, MG), em busca da minha primeira oportunidade de **estágio em TI** (presencial na região ou remoto).
-
-- 💻 **Foco técnico:** Lógica de programação, desenvolvimento de sistemas, manipulação de arquivos e automação de processos[cite: 14].
-- 🏭 **Experiência prática:** Atuação como Aprendiz em Manutenção Mecânica, aplicando organização de dados, controle de indicadores e planilhas no dia a dia operacional[cite: 14].
-- 🚀 **Objetivo:** Contribuir em equipes de desenvolvimento, suporte ou dados enquanto evoluo minhas habilidades em engenharia de software.
+Graduando em **Ciência da Computação** pela **UNIFENAS**, com foco em desenvolvimento de sistemas, lógica estruturada, manipulação de dados e automação de rotinas. Combino fundamentos sólidos de programação em baixo nível com vivência prática em ambiente industrial, onde atuo na organização de indicadores operacionais e controle de dados. Busco oportunidade de **estágio em TI** para contribuir na construção de soluções eficientes e escaláveis.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Competências Técnicas
 
-**Linguagens & Dados**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
-
-**Versionamento & Ambiente**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+| Domínio | Tecnologias e Práticas |
+| :--- | :--- |
+| **Linguagens** | `C` · `C++` · `Python` |
+| **Engenharia & Fundamentos** | Programação Estruturada · Estruturas de Dados (`struct`) · Persistência Binária · Gestão de Memória e Buffers |
+| **Ferramentas & Controle de Versão** | `Git` · `GitHub` · `VS Code` · Ambiente CLI |
+| **Análise & Produtividade** | `Microsoft Excel` · Estruturação de Planilhas · Organização de Dados Operacionais |
 
 ---
 
-### 📌 Projeto em Destaque
+### Projeto em Destaque
 
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[🏨 Hotel Manager](https://github.com/levizxrs/hotel-manager)** | Sistema CLI de gestão de check-ins e hospedagens com persistência em arquivos binários (`.dat`), exclusão lógica (*soft delete*) via acesso direto (`fseek`) e exportação de relatórios em `.txt`[cite: 14]. | `C` `C++` `CLI` |
+#### [Hotel Manager — Sistema de Gestão de Hospedagens](https://github.com/levizxrs/hotel-manager)
+`C` `C++` `CLI` `Persistência Binária`
+
+Sistema em linha de comando desenvolvido para controle de check-ins, ocupação de quartos e auditoria de registros hoteleiros, construído sem dependências externas:
+
+- **Persistência e Acesso Direto:** Armazenamento permanente em arquivo binário (`.dat`) com atualização *in-place* via ponteiro de arquivo (`fseek`), garantindo integridade sem reescrita total da base.
+- **Exclusão Lógica (*Soft Delete*):** Inativação controlada por flag de status para preservação de histórico e rastreabilidade.
+- **Relatórios e Métricas:** Exportação automatizada de registros ativos para formato legível (`.txt`) e contabilização em tempo real da base.
 
 ---
 
-### 📊 Estatísticas no GitHub
+### Formação & Experiência
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=levizxrs&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&locale=pt-br" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levizxrs&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&locale=pt-br" alt="Top Languages" />
-</div>
+- **Bacharelado em Ciência da Computação** — *UNIFENAS (Alfenas, MG)*  
+  *Em andamento* · Foco em algoritmos, arquitetura de computadores e desenvolvimento de software.
+
+- **Aprendiz em Manutenção Mecânica**  
+  Atuação no suporte às rotinas operacionais, com responsabilidade direta na organização de dados técnicos, preenchimento e controle de planilhas e rastreabilidade de informações.
